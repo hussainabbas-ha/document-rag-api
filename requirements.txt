@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-community
+langchain-qdrant
+langchain-huggingface
+langchain-text-splitters
+qdrant-client
+pypdf
+watchdog
